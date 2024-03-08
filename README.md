@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my first Git Repository.
 <br>
-Author - Lav Rastogi
+Author - Lav (Apna College)
